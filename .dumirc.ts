@@ -6,5 +6,6 @@ export default defineConfig({
     name: 'website design',
     nav: navConfig,
     sidebar: menuConfig,
+    publicPath: './',
   },
 });
